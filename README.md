@@ -1,5 +1,5 @@
 # InfoDesc
-This repo contains course projects related announcements and deadlines. I suggest you to subscribe for notifications here (Github allows you to do this).
+This repo contains course projects related announcements and deadlines. I suggest you to subscribe for notifications here (click "Watch" button next to "Star" button).
 
 # Info (incl. duplicates of my emails)
 
