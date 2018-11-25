@@ -3,7 +3,7 @@ This repo contains course projects related announcements and deadlines. I sugges
 
 Do not hesitate to open Github issues in case of administrative questions right here (in this repository). I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
 
-# Info (incl. duplicates of my emails)
+# Info
 
 ## Error analysis - Deadline 02.12.2018 23.59
 Your next task is comparative error analysis. You should have an input sentence in Estonian (`est`), two machine translations of this sentence (one is done by the baseline - `eng_base`, one by your big system - `eng_our`), and one reference in English (`eng_ref`). Take the same `est` and `eng_ref` sentences you used in practicum 4.
