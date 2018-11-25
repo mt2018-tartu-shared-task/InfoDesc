@@ -4,7 +4,7 @@ This repo contains course projects related announcements and deadlines. I sugges
 # Info (incl. duplicates of my emails)
 
 ## Error analysis - Deadline 02.12.2018 23.59
-Your next task is comparative error analysis. You should have an input sentence in Estonian (`est`), two machine translations of this sentence (one is done by the baseline - `eng_base`, one by your big system - `eng_our`), and one reference in English (`eng_ref`). Take the same `est` and `eng_tef` sentences you used in practicum 4.
+Your next task is comparative error analysis. You should have an input sentence in Estonian (`est`), two machine translations of this sentence (one is done by the baseline - `eng_base`, one by your big system - `eng_our`), and one reference in English (`eng_ref`). Take the same `est` and `eng_ref` sentences you used in practicum 4.
 
 Now for each set of 4 sentences (`est, eng_base, eng_our, eng_ref`) compare eng_base to eng_my and to eng_ref. Make a conclusion which sentence (eng_our or eng_ref) is a better translation and provide a short justification of your choice. 
 
