@@ -10,7 +10,7 @@ Now for each set of 4 sentences (`est, eng_base, eng_our, eng_ref`) compare eng_
 
 Format your output similar to how you did in practicum 4. Also, count how many times you prefer one system over another (e.g. baseline_score: 35/60; our_system_score: 25/60).
 
-To baseline model is deployed on our neurotolge website: http://neurotolge.ee/# . Choose English as an output language. The choice of style is up to you (see which one is more similar to reference and use it; it won't make much difference in our case). So use this website to obtain baseline translations for comparison.
+The baseline model is deployed on our neurotolge website: http://neurotolge.ee/# . Choose English as an output language. The choice of style is up to you (see which one is more similar to reference and use it; it won't make much difference in our case). So use this website to obtain baseline translations for comparison.
 
 The deadline is Sunday at 23:59. 
 
