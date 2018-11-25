@@ -1,6 +1,8 @@
 # InfoDesc
 This repo contains course projects related announcements and deadlines. I suggest you to subscribe for notifications here (click "Watch" button next to "Star" button).
 
+Do not hesitate to open Github issues in case of administrative questions right here (in this repository). I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
+
 # Info (incl. duplicates of my emails)
 
 ## Error analysis - Deadline 02.12.2018 23.59
@@ -12,12 +14,7 @@ Format your output similar to how you did in practicum 4. Also, count how many t
 
 The baseline model is deployed on our neurotolge website: http://neurotolge.ee/# . Choose English as an output language. The choice of style is up to you (see which one is more similar to reference and use it; it won't make much difference in our case). So use this website to obtain baseline translations for comparison.
 
-The deadline is Sunday at 23:59. 
-
-PS:
-the deadline for the big experiment is tomorrow at 23:59. I expect you to push (to Github) your BLEU scores for the big models (also include a path to translated test/dev sets and experiment on the rocket). 
-
-Do not hesitate to open Github issues, I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
+The deadline is Sunday 02.12.2018 23.59. 
 
 #### Expected result: error analysis report
 --- 
