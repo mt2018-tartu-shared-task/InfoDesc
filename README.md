@@ -25,7 +25,7 @@ The deadline is Sunday 02.12.2018 23.59.
 4) I will share details about manual analysis later when we are done with this.
 
 #### Expected result: translated out-domain set from practicum 2 and translated test set from shared data folder. BLEU scores for them. Paths to experiments on rocket.  
-Note: if you have a trained system by the deadline and translated one of these required sets, but not another one, please add translation of 2nd one and explicitly specify it in report. You can do it till 02.12.2018 23.59. We will not penalize you.
+Note: if you have a trained system by the deadline and translated one of these required sets, but not another one, please add translation of the 2nd one and explicitly specify it in report. You can do it till 02.12.2018 23.59. We will not penalize you.
 
 However, if you did not have a trained system and translated none of the sets, please also finish your experiments, by specify that you are doing late submission.
 Please specify that you are translated one of them before (either , and just adding translation of another one. If you translated non of sets till the deadline and doing late submition, explicitly state it.
