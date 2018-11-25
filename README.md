@@ -1,7 +1,7 @@
 # InfoDesc
 This repo contains course projects related announcements and deadlines. I suggest you to subscribe for notifications here (click "Watch" button next to "Star" button).
 
-Do not hesitate to open Github issues in case of administrative questions right here (in this repository). I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
+Do not hesitate to open Github issues in case of administrative questions right here (in this repository). For question related to specific details of your team's projects, open issues at your team's repositories. I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
 
 # Info
 
