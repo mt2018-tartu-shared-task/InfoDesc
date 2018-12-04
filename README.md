@@ -4,6 +4,11 @@ This repo contains course projects related announcements and deadlines. I sugges
 Do not hesitate to open Github issues in case of administrative questions right here (in this repository). For question related to specific details of your team's projects, open issues at your team's repositories. I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
 
 # Info
+## Final report - Strict deadline: 10.12.2018 23.59
+Report template link: https://classroom.github.com/g/a0sKhdFE
+
+Report should be in .md format. Please, follow provided structure and keep it concise.
+
 ## Error analysis - Deadline extended. New deadline: 03.12.2018 23.59
 
 ## Error analysis - Deadline 02.12.2018 23.59
