@@ -5,9 +5,13 @@ Do not hesitate to open Github issues in case of administrative questions right 
 
 # Info
 ## Final report - Hard deadline: 10.12.2018 23.59
-Report template link: https://classroom.github.com/g/a0sKhdFE
+Hi everyone!
 
-Report should be in .md format. Please, follow provided structure and keep it concise.
+It is time to write your final reports. They are more like summaries of what you have done.
+
+I prepared detailed guide of what should be included. The report should be in .md format. Please, follow the provided structure and keep it concise.
+
+Report template link: https://classroom.github.com/g/a0sKhdFE
 
 ## Error analysis - Deadline extended. New deadline: 03.12.2018 23.59
 
