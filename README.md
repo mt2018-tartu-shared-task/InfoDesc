@@ -4,6 +4,14 @@ This repo contains course projects related announcements and deadlines. I sugges
 Do not hesitate to open Github issues in case of administrative questions right here (in this repository). For question related to specific details of your team's projects, open issues at your team's repositories. I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
 
 # Info
+## Posters
+You can start making your posters. The target audience is other course participants.  
+
+Some guidelines are here:
+https://docs.google.com/document/d/1QECbT_mwCRGqlUkdMfig7SDV8K5vYumcKizl3mYLZpM/edit?usp=sharing
+
+The details on how and when to print them (as well as about the date of the poster session) will be communicated later.
+
 ## Final report - Hard deadline: 10.12.2018 23.59
 Hi everyone!
 
