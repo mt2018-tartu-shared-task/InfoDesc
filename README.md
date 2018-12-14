@@ -4,13 +4,26 @@ This repo contains course projects related announcements and deadlines. I sugges
 Do not hesitate to open Github issues in case of administrative questions right here (in this repository). For question related to specific details of your team's projects, open issues at your team's repositories. I try my best to respond to them ASAP. Also, if you feel you need in person project support, email me so we assign a meeting this week. 
 
 # Info
-## Posters
+## Poster session info
+The poster session will be held on Wednesday (19.12) in Liivi 2 (room 405) at 10:15.
+
+To print your posters free of charge, send them to meedia@ut.ee <mailto:meedia@ut.ee> by Tuesday morning the latest so that they can give them printed by Wednesday 9:30 AM. 
+
+Also, put “[MachineTranslation2018]" into the subject of the email.
+
+At the same time, upload them to GitHub to the project report repo!
+
+Then you can pick them here http://goo.gl/1lNE3 (Lossi 3-141a, Tartu) (the door where it is written "Print on demand").
+
+Please note, that 10:15 is the time when all the posters already should be on the walls! 
+
+So please come earlier (before 10:00) to have some time to prepare.
+
+## Preparing the poster
 You can start making your posters. The target audience is other course participants.  
 
 Some guidelines are here:
 https://docs.google.com/document/d/1QECbT_mwCRGqlUkdMfig7SDV8K5vYumcKizl3mYLZpM/edit?usp=sharing
-
-The details on how and when to print them (as well as about the date of the poster session) will be communicated later.
 
 ## Final report - Hard deadline: 10.12.2018 23.59
 Hi everyone!
