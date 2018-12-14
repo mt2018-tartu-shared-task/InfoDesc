@@ -7,7 +7,7 @@ Do not hesitate to open Github issues in case of administrative questions right 
 ## Poster session info
 The poster session will be held on Wednesday (19.12) in Liivi 2 (room 405) at 10:15.
 
-To print your posters free of charge, send them to meedia@ut.ee <mailto:meedia@ut.ee> by Tuesday morning the latest so that they can give them printed by Wednesday 9:30 AM. 
+To print your posters free of charge, send them to meedia@ut.ee by Tuesday morning the latest so that they can give them printed by Wednesday 9:30 AM. 
 
 Also, put “[MachineTranslation2018]" into the subject of the email.
 
